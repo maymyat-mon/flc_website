@@ -52,7 +52,7 @@ export const defaultSiteContent: SiteContent = {
       title: "English for General Purpose",
       description:
         "Build confident daily communication through speaking, listening, and practical conversation activities.",
-      image: "/images/english-for-general-purpose.jpg",
+      image: "/images/english_for_general.jpg",
     },
     {
       title: "English for Academic",

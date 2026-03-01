@@ -28,7 +28,7 @@ export default function AboutPage() {
 
         <div className="relative h-80 overflow-hidden rounded-2xl border border-[#dfd2b5] bg-white shadow-sm md:h-auto">
           <Image
-            src="/images/viber_image_2026-03-01_11-11-27-016.jpg"
+            src="/images/viber_image_2026-03-01_11-11-26-623.jpg"
             alt="Students at FLC Education"
             fill
             className="object-cover"
